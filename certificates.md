@@ -11,10 +11,6 @@ title : "My certificates"
 
 ![Tux, the Linux mascot](/assets/img/quera.jpg)
 
-![Tux, the Linux mascot](/assets/img/yara.jpg)
-
-![Tux, the Linux mascot](/assets/img/anjoman.jpg)
-
 ![Tux, the Linux mascot](/assets/img/network+.jpg)
 
 ![Tux, the Linux mascot](/assets/img/windows.jpg)
