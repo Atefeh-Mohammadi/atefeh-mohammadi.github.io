@@ -3,6 +3,8 @@ layout : page
 title : "My certificates"
 ---
 
+![Tux, the Linux mascot](/assets/img/nbml certificate.png)
+
 ![Tux, the Linux mascot](/assets/img/rahnema2.jpg)
 
 ![Tux, the Linux mascot](/assets/img/upkey.jpg)
